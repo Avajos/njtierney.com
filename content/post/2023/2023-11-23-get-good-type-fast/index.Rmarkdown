@@ -125,7 +125,7 @@ I really like using my keyboard shorcuts, they help me more fluidly move between
 
 All these keyboard shortcuts are super useful. So much so that there are whole other ecosystems that are built on nice shortcuts. Both emacs and vim are pieces of software/philosophies that take this shortcut idea to another level. I personally don't use them, but I know plenty of people who do use them, and really enjoy doing so.
 
-A word of warning, if you use vim - know how get out of vim: `Esc` then <kbd>:</kbd> then <kbd>q</kbd>, then `Enter`. If you want to learn the basics of vim, [openvim](https://www.openvim.com/) and [vim-adventures](https://vim-adventures.com/) are great. You can set RStudio to use vim or emacs key bindings if you want (see Tools \> Global Options \> Code \> Editing Tab \> Keybindings), but I haven't used this before, so I'm not sure what the experience is like.
+A word of warning, if you use vim - know how get out of vim: `Esc` then <kbd>:</kbd> then <kbd>q</kbd>, then `Enter`. If you want to learn the basics of vim, [openvim](https://www.openvim.com/) and [vim-adventures](https://vim-adventures.com/) are great. You can set RStudio to use vim or emacs key bindings if you want (see Tools \> Global Options \> Code \> Editing Tab \> Keybindings), but I haven't used this before, so I'm not sure what the experience is like. [monkeytype](https://monkey-type.org/)
 
 ## End
 
